@@ -149,17 +149,17 @@ The team followed a structured workflow with clear areas of responsibility:
 
 - ``Initialize repository with folder structure``
 
-- Add MedRecordChain.sol and Migrations.sol
+- ``Add MedRecordChain.sol and Migrations.sol``
 
-- Write deployment script and config
+- ``Write deployment script and config``
 
-- Implement CLI client
+- ``Implement CLI client``
 
-- Add automated tests
+- ``Add automated tests``
 
-- Add README.md and reports
+- ``Add README.md and reports``
 
-- Finalize .gitignore
+- ``Finalize .gitignore``
 
 
 **Balance & Visibility:**
