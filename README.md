@@ -147,7 +147,7 @@ The team followed a structured workflow with clear areas of responsibility:
 
 **Commit Highlights:**
 
-- Initialize repository with folder structure
+- ``Initialize repository with folder structure``
 
 - Add MedRecordChain.sol and Migrations.sol
 
