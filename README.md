@@ -3,6 +3,9 @@
 ## Overview
 MedRecordChain is a blockchain solution for secure and transparent medical records management. Patients control access while all actions are immutably logged on-chain.
 
+<img width="806" height="492" alt="image" src="https://github.com/user-attachments/assets/76e00f55-9f1e-4940-9bab-e70023468f67" />
+
+
 **Key Features:**
 - Patients create and own medical records
 - Grant/revoke doctor access
