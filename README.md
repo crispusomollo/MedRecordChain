@@ -129,7 +129,7 @@ npx hardhat test
 
 ## Demo Video
 ```
-Link: [Insert demo link]
+Link: []
 ```
 
 ## Team Contributions
